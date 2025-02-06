@@ -1,6 +1,6 @@
-# IBM-Github- Very Simple Interest Calculator
+# Very Simple Interest Calculator (Coursera-IBM-Github)
 
-A calculator that calculates simple interest given principal, annual rate of interest, and time period in years.
+A 🧮calculator that calculates 📈simple interest given **`p`**`rincipal`, annual **`r`**`ate` of interest, and  **`t`**`ime` period in years.
 
 ## Input:
 - `p` (principal amount)
